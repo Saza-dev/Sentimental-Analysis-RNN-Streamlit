@@ -24,7 +24,7 @@ This project performs sentiment analysis on IMDB movie reviews using a Simple Re
  ```
 2. Navigate to the project folder:
   ```
-    cd imdb-rnn-sentiment-analysis
+  cd imdb-rnn-sentiment-analysis
   ```
 3. Install the dependencies:
  ```
